@@ -1,5 +1,0 @@
-CREATE TABLE IF NOT EXISTS Denuncia (
-    id BIGINT PRIMARY KEY AUTO_INCREMENT,
-    message VARCHAR(255),
-    local VARCHAR(50)
-);
